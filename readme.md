@@ -12,3 +12,7 @@ pip install mysql-connector-python
 
 Se instalo Flask
 pip install Flask
+
+
+$env:FLASK_APP = "todo"
+flask run
